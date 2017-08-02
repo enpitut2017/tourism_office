@@ -1,0 +1,2 @@
+module DetailInformationHelper
+end
